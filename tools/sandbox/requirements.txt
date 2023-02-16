@@ -49,5 +49,5 @@ typing-inspect==0.6.0
 ujson==4.0.1
 uWSGI==2.0.19.1
 wcwidth==0.2.5
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 xxhash==2.0.0
